@@ -31,11 +31,13 @@ I am a 3rd year Computer Science student and I am trying to develop my skills in
 
 ### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=surgeon24&show_icons=true&theme=gruvbox)
+![Surgeon24's GitHub stats](https://github-readme-stats.vercel.app/api?username=surgeon24&show_icons=true&theme=gruvbox)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=Surgeon24&theme=gruvbox&border_radius=4.5) -->
 
 #
-Contact me: Ermol24@icloud.com
+Contact me:\
+[`Linkedin`](https://www.linkedin.com/in/mikhail-ermolaev24/)\
+Ermol24@icloud.com
 <!-- On [`facebook`](https://www.facebook.com/) -->
 <!-- [website]: https://fkcodes.com -->
