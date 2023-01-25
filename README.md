@@ -38,6 +38,6 @@ I am a 3rd year Computer Science student and I am trying to develop my skills in
 #
 Contact me:\
 [`Linkedin`](https://www.linkedin.com/in/mikhail-ermolaev24/)\
-Ermol24@icloud.com
+mikhail.ermolaev24@gmail.com
 <!-- On [`facebook`](https://www.facebook.com/) -->
 <!-- [website]: https://fkcodes.com -->
