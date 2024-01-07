@@ -2,7 +2,7 @@
 
 **`A passionate student ✍️`**
 
-I am a 3rd year Computer Science student and I am trying to develop my skills in the IT industry. I like to systematizing and solving difficult and intricate problems, as well as doing some funny stuff. So, feel free to join my jorney!
+I'm a student at Cracow University of Technology, currently in my fourth year at the Faculty of Computer Science and Telecommunications. I have a solid track record in developing both individual and group projects using Java, SQL, and PHP (specifically the Laravel framework). Additionally, I possess proficiency in other programming languages such as C/C++ and Python, along with foundational knowledge of Spring and Hibernate frameworks.
 
    <p align="left">
       <a href="https://github.com/Surgeon24/Surgeon24?tab=followers">
