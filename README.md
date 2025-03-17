@@ -2,7 +2,8 @@
 
 **`A passionate student ✍️`**
 
-I'm a student at Cracow University of Technology, currently in my fourth year at the Faculty of Computer Science and Telecommunications. I have a solid track record in developing both individual and group projects using Java, SQL, and PHP (specifically the Laravel framework). Additionally, I possess proficiency in other programming languages such as C/C++ and Python, along with foundational knowledge of Spring and Hibernate frameworks.
+I'm a Master’s student at Cracow University of Technology at the Faculty of Computer Science and Telecommunications. I have a solid track record in developing both individual and group projects using Java, Python, C/C++.
+I am eager to apply my skills in software development for the real-world challenges. My background includes developing automated stock trading systems, working with Interactive Brokers API, and optimizing WebSocket communications. Furthermore, my expertise in network operations and VoIP systems has improved my capacity to solve complicated system problems.
 
    <p align="left">
       <a href="https://github.com/Surgeon24/Surgeon24?tab=followers">
